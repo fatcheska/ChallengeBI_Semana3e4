@@ -88,4 +88,4 @@ Receita = SUMX(tabela_pedidos, [quantidade] * [preço]) * (1 + [% Cenário Deman
 * tabela_vendedores[id_vendedor] 1:* tabela_notas_fiscais[id_vendedor]
 
 ## Link do Dashboard
-<p><a href ="https://app.powerbi.com/view?r=eyJrIjoiNzkzYjNhM2EtZGY3Mi00ODFiLWE0ZmEtZjlhNzc5ODg5NWJjIiwidCI6IjJiZWZhNWY5LTEyMjUtNGViYi04MjFiLTM4Yzk1MWZkYjgyZSJ9" target = "_blank">Challenge BI - Semanas 3 e 4</a></p>
+<p><a href ="https://app.powerbi.com/view?r=eyJrIjoiNzkzYjNhM2EtZGY3Mi00ODFiLWE0ZmEtZjlhNzc5ODg5NWJjIiwidCI6IjJiZWZhNWY5LTEyMjUtNGViYi04MjFiLTM4Yzk1MWZkYjgyZSJ9" target = "external">Challenge BI - Semanas 3 e 4</a></p>
